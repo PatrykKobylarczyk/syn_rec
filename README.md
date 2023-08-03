@@ -1,6 +1,7 @@
 # syn-req
 
-Task 1
+## Task 1
+
 Tworzenie nowego klienta:
 
 {
@@ -16,7 +17,8 @@ Tworzenie nowego klienta:
   tags: ["syneriseUS"],
 }
 
-Task 2
+## Task 2
+
 Tworzenie eventów dla uprzednio stworzonego klienta:
 
 const event_1 = JSON.stringify({
@@ -91,5 +93,5 @@ const event_4 = JSON.stringify({
   },
 });
 
-Zadanie techniczne
+## Zadanie techniczne
 Skrypt do uruchomienia w konsoli przeglądarki podczas oglądania produktu w sklepie internetowym MediaMarkt mediamarkt.pl
